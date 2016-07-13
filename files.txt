@@ -1,4 +1,4 @@
-files.txt|https://raw.githubusercontent.com/AJS-development/OgarUL-Plugin-Library/master/SkinChanger/files.txt
+files.txt|https://github.com/Tokoagar/TokoProject/blob/master/files.txt
 index.js|https://raw.githubusercontent.com/AJS-development/OgarUL-Plugin-Library/master/SkinChanger/index.js
 config.ini|https://raw.githubusercontent.com/AJS-development/OgarUL-Plugin-Library/master/SkinChanger/config.ini
 skins.txt|https://github.com/Tokoagar/TokoProject/blob/master/skins.txt
